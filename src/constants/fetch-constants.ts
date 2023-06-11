@@ -1,0 +1,1 @@
+export const BACKEND_APIENDPOINT = "http://localhost:8080/graphql"
